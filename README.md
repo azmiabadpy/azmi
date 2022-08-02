@@ -1,2 +1,2 @@
-# azmi
+# Number Learning System
 python project
